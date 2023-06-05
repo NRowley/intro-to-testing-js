@@ -8,11 +8,11 @@ const helloWorld = function() {
 };
 
 function sayHello(input){
-    //return `Hello, ${input}!`;
+    return `Hello, ${input}!`;
 
-    if(input === 'Alex'){
-        return `Hello, ${input}!`
-    } else {
-        return `Hello, ${input}!`
-    }
+    // if(input === 'Alex'){
+    //     return `Hello, ${input}!`
+    // } else {
+    //     return `Hello, ${input}!`
+    // }
 };
