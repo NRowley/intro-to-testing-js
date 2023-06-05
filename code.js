@@ -16,3 +16,11 @@ function sayHello(input){
     //     return `Hello, ${input}!`
     // }
 };
+
+function isFive(input){
+    if(parseInt(input) === 5){
+        return true;
+    } else {
+        return false;
+    }
+}
